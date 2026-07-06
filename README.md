@@ -19,7 +19,7 @@
 
 The complete step-by-step write-up — including the backstory, the wiring guide, the code walkthrough, and the testing logs — is available as a PDF:
 
-**[📄 Read the Article]()**
+**[📄 Read the Article](https://www.instructables.com/BATTERY-the-DIY-Desktop-Battery-Tester)**
 
 ---
 
